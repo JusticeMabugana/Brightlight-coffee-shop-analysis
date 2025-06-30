@@ -5,3 +5,6 @@ https://www.canva.com/design/DAGrTblB_9U/7Ks9nlEX02CXxS4A-ZcapQ/view?utm_content
 Please see the below link for Excel workings
 
 https://1drv.ms/x/c/a4f964bbb0c03a3c/Ec6d0Un00KdLkTNIxVJd-xwBpvMF2Mzccxm1zykCyqAVQg?e=ualVIn
+
+Please see below link to the planning process on Miro
+https://miro.com/welcomeonboard/Rzl6bDduZW5RZi9sMkVtaGRuR0tjaXVSeVh4bmxsNHluQThYMkVyVjZ0QWpCbi9od0ZCWHBKWFhUNisxQUtQaXpnTGFhc3VnNVE2QVVmV0I4WkdIdFJVUVdHeE42VThKSjcxaTJZTFNaaHZQcC9hMmFna3dRdXNsckVFMWtQRWhzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=529775625263
