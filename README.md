@@ -1,5 +1,5 @@
 ## **Findings and Recommendations**
-**Busy days**
+ 
    - **Astoria** tends to be busiest from Wednesday to Friday, while the least active days are typically Tuesday and Saturday.
    - This pattern may be influenced by **Astoria's** location; if it is situated in a business district that sees less foot traffic on weekends, this could contribute to lower sales figures.
    - It might be worthwhile to reassess **Astoria's** trading hours on weekends.
