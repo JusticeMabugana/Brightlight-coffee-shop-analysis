@@ -9,7 +9,7 @@ These findings will assist management and the C.E.O in making informed, data-dri
 
 ## **Findings and Recommendations**
 
-**Revenue per location**
+📍🏠**Revenue per location**
    - Hell’s Kitchen generates the highest revenue, contributing 33.8%, while Lower Manhattan brings in the least, with 32.9%.
 
 
@@ -41,10 +41,6 @@ These findings will assist management and the C.E.O in making informed, data-dri
  📈**Growth findings**
    - All three coffee shops experienced a decline in sales from January to February.  
    - However, each shop observed a strong increase in units sold over the following five months.  
-   - It's crucial to highlight that **weather conditions** may have significantly influenced the sales patterns.  
-   - In Manhattan and Astoria, winter typically lasts from December to February.  
-   - This indicates that these areas had **shorter daylight hours** compared to the subsequent five months.
-   - Less daylight hours usually translates to less consumer traffic, resulting in less sales
    - The coffee shops have experienced growth of over **100% in 6 months**, which is remarkable,
    - The typical growth target for coffee shops comparable to ours is approximately 5% per month.
    - Our coffee shop has achieved **month-to-month growth rates reaching as high as 33%**, significantly surpassing market expectations.  
