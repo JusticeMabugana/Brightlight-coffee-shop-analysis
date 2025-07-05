@@ -8,9 +8,16 @@
 
    - **Lower Manhattan** experiences a surge in activity on Mondays, whereas Sundays tend to have the least engagement.
    - This lack of activity on Sundays could be a significant reason for **Lower Manhattan's** lower revenue compared to other coffee shops.
-   - Additionally, consider implementing special promotions on Tuesdays to boost activity.
+
+     
+   - **Hell’s Kitchen** stands out as the most profitable of the three shops, consistently selling over 10,000 units daily, with the exception of Sundays.
+
+   - This impressive performance may be linked to its prime location. Additionally, it could be influenced by aspects that other shops might adopt, such as  quality of service and  shop cleanliness.
+
+ **Busy days Recommendations**   
 
    - It might be worthwhile to reassess **Astoria's** trading hours on weekends.
+   - Additionally, **Astoria** should consider implementing special promotions on Tuesdays to boost activity
    - It might be worthwhile for **Lower Manhattan** to reevaluate its Sunday trading hours or offerings, tailoring them to better meet the needs of the visitors in the area on that day.
   
 
