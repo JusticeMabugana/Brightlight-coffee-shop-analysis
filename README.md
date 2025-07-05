@@ -13,7 +13,7 @@ These findings will assist management and the C.E.O in making informed, data-dri
    - Hell’s Kitchen generates the highest revenue, contributing 33.8%, while Lower Manhattan brings in the least, with 32.9%.
 
 
-**Busy days findings**
+📆**Busy days findings**
 
    - Our busiest days are Mondays and Fridays, generating 30% of the week’s revenue
    - Our least busy days are weekends (Sat and Sun), generating just under 28% of the week’s revenue
@@ -38,7 +38,7 @@ These findings will assist management and the C.E.O in making informed, data-dri
    - Perhaps we may re-asses the trading hours on weekends and/or introduce specials
 
 
- **Growth findings**
+ 📈**Growth findings**
    - All three coffee shops experienced a decline in sales from January to February.  
    - However, each shop observed a strong increase in units sold over the following five months.  
    - It's crucial to highlight that **weather conditions** may have significantly influenced the sales patterns.  
@@ -53,9 +53,3 @@ Please see the below link for the Canva presentation of the Coffee shop analysis
 
 https://www.canva.com/design/DAGrTblB_9U/7Ks9nlEX02CXxS4A-ZcapQ/view?utm_content=DAGrTblB_9U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h728d2b17cc 
 
-Please see the below link for Excel workings
-
-https://1drv.ms/x/c/a4f964bbb0c03a3c/Ec6d0Un00KdLkTNIxVJd-xwBpvMF2Mzccxm1zykCyqAVQg?e=ualVIn
-
-Please see below link to the planning process on Miro 
-https://miro.com/app/board/uXjVImhqdqk=/?share_link_id=824188114217
