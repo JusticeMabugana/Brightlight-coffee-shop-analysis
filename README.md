@@ -52,5 +52,8 @@ https://www.canva.com/design/DAGrTblB_9U/7Ks9nlEX02CXxS4A-ZcapQ/view?utm_content
 
 ## **Project Files**
 
-Input 1. File containing information partaining to the 3 Coffee shop locations, as well as the expectation from the C.E.O.
-      2.  File containing sales data partaining to the 3 coffee shop locations, captured in Excel.
+
+Input 
+1.  File containing information partaining to the 3 Coffee shop locations, as well as the expectation from the C.E.O.
+     
+2.  File containing sales data partaining to the 3 coffee shop locations, captured in Excel.
