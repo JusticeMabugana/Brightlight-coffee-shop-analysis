@@ -64,4 +64,18 @@ Output
 
 
 Workings
+1. Excel file containing graphs, tables, charts, functions and formulae that went into producing the final output
+2. Miro planning process for the final output
+3. Excel workings saved in PDF
+4. Excel workings saved in PDF
+5. Excel workings saved in PDF
+6. SQL code used for creating file for final Excel data used
+
+
+## **Tools used**
+
+ - Miro
+ - Snowflake (SQL)
+ - MS Excel
+ - Canva 
 
