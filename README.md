@@ -28,6 +28,18 @@
    - It might be worthwhile for **Lower Manhattan** to reevaluate its Sunday trading hours or offerings, tailoring them to better meet the needs of the visitors in the area on that day.
    - Perhaps we may re-asses the trading hours on weekends and/or introduce specials
 
+
+ **Growth findings**
+   - All three coffee shops experienced a decline in sales from January to February.  
+   - However, each shop observed a strong increase in units sold over the following five months.  
+   - It's crucial to highlight that **weather conditions** may have significantly influenced the sales patterns.  
+   - In Manhattan and Astoria, winter typically lasts from December to February.  
+   - This indicates that these areas had **shorter daylight hours** compared to the subsequent five months.
+   - Less daylight hours usually translates to less consumer traffic, resulting in less sales
+   - The coffee shops have experienced growth of over **100% in 6 months**, which is remarkable,
+   - The typical growth target for coffee shops comparable to ours is approximately 5% per month.
+   - Our coffee shop has achieved **month-to-month growth rates reaching as high as 33%**, significantly surpassing market expectations.  
+
 Please see the below link for the Canva presentation of the Coffee shop analysis
 
 https://www.canva.com/design/DAGrTblB_9U/7Ks9nlEX02CXxS4A-ZcapQ/view?utm_content=DAGrTblB_9U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h728d2b17cc 
