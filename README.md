@@ -1,5 +1,8 @@
 ### ☕**Coffee_Shop Analysis** 
 
+This repository contains an analysis of a coffee shop franchise, based in 3 locations, over the period between Jan 2023 and June 2023.
+The goal for this analysis is to identify sales trends across the 3 locations, sales trends over the time period, and sales trends across the different product offerings.
+These findings will assist management and the C.E.O in making informed, data-driven decisions. 
 
 
 
