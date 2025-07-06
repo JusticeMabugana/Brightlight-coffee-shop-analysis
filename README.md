@@ -13,7 +13,7 @@ These findings will assist management and the C.E.O in making informed, data-dri
    - Hell’s Kitchen generates the highest revenue, contributing 33.8%, while Lower Manhattan brings in the least, with 32.9%.
 
 
-📆**Busy days findings**
+📆 **Busy days findings**
 
    - Our busiest days are Mondays and Fridays, generating 30% of the week’s revenue
    - Our least busy days are weekends (Sat and Sun), generating just under 28% of the week’s revenue
@@ -30,7 +30,7 @@ These findings will assist management and the C.E.O in making informed, data-dri
 
    - This impressive performance may be linked to its prime location. Additionally, it could be influenced by aspects that other shops might adopt, such as  quality of service and  shop cleanliness.
 
- **Busy days Recommendations**   
+💰✅**Busy days Recommendations**   
 
    - It might be worthwhile to reassess **Astoria's** trading hours on weekends.
    - Additionally, **Astoria** should consider implementing special promotions on Tuesdays to boost activity
