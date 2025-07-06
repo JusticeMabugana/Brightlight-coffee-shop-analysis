@@ -47,9 +47,6 @@ These findings will assist management and the C.E.O in making informed, data-dri
    - The typical growth target for coffee shops comparable to ours is approximately 5% per month.
    - Our coffee shop has achieved **month-to-month growth rates reaching as high as 33%**, significantly surpassing market expectations.  
 
-Please see the below link for the Canva presentation of the Coffee shop analysis
-
-https://www.canva.com/design/DAGrTblB_9U/7Ks9nlEX02CXxS4A-ZcapQ/view?utm_content=DAGrTblB_9U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h728d2b17cc 
 
 
 ## **Project Files**
