@@ -36,6 +36,8 @@ These findings will assist management and the C.E.O in making informed, data-dri
    - Additionally, **Astoria** should consider implementing special promotions on Tuesdays to boost activity
    - It might be worthwhile for **Lower Manhattan** to reevaluate its Sunday trading hours or offerings, tailoring them to better meet the needs of the visitors in the area on that day.
    - Perhaps we may re-asses the trading hours on weekends and/or introduce specials
+   - We may need to do an analysis per season, as sales seemed to drop in Jan, which is winter season around Manhattan and Astoria (shorter daylight), and picked up in Feb, which is summer.
+   - We may need to introduce delivery options in order to capture a market that is not within the vicinity of the shops.
 
 
  📈**Growth findings**
