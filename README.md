@@ -60,16 +60,16 @@ Input
 
 
 Output
-1.  File containing the final presentation for the C.E.O
+1.  [Presentation](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Output/Coffee%20Shop%20Analysis%20presentation.pdf) File containing the final presentation for the C.E.O
 
 
 Workings
-1. Excel file containing graphs, tables, charts, functions and formulae that went into producing the final output
-2. Miro planning process for the final output
-3. Excel workings saved in PDF
-4. Excel workings saved in PDF
-5. Excel workings saved in PDF
-6. SQL code used for creating file for final Excel data used
+1. [Excel Workings](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/BRIGHTLIGHT%20presentation%202%201%201%20(1).xlsx) Excel file containing graphs, tables, charts, functions and formulae that went into producing the final output
+2. [Miro Plan](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/Coffee%20shop%20analysis%20final%20plan.pdf) Miro planning process for the final output
+3. [Excel in PDF](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/Excel%20Coffee%20Shop%20MoM%20growth.pdf) Excel workings saved in PDF
+4. [Excel in PDF](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/Excel%20Coffee%20shop%20Sales.pdf) Excel workings saved in PDF
+5. [Excel in PDF](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/Excel%20Coffee%20shop%20total%20revenue%20per%20location.pdf) Excel workings saved in PDF
+6. [SQL Magic](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/SQL%20Code%20Coffee_Shop_Analysis.txt) SQL code used for creating file for final Excel data used
 
 
 ## **Tools used**
