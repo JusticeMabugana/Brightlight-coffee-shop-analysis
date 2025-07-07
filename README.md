@@ -68,7 +68,7 @@ These findings will assist management and the C.E.O in making informed, data-dri
 3. [Excel in PDF](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/Excel%20Coffee%20Shop%20MoM%20growth.pdf) Excel workings saved in PDF
 4. [Excel in PDF](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/Excel%20Coffee%20shop%20Sales.pdf) Excel workings saved in PDF
 5. [Excel in PDF](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/Excel%20Coffee%20shop%20total%20revenue%20per%20location.pdf) Excel workings saved in PDF
-6. [SQL Magic](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/SQL%20Code%20Coffee_Shop_Analysis.txt) SQL code used for creating file for final Excel data used
+6. [SQL Magic](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/SQL%20Code%20Coffee_Shop_Analysis.sql) SQL code used for creating file for final Excel data used
 
 
 ## **Tools used**
