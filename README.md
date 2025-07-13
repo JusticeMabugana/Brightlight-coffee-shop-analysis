@@ -9,11 +9,13 @@ These findings will assist management and the C.E.O in making informed, data-dri
 
 ## **Findings and Recommendations**
 
-📍🏠**Revenue per location**
+📍🏠**Revenue per location findings**
    - Hell’s Kitchen generates the highest revenue, contributing 33.8%, while Lower Manhattan brings in the least, with 32.9%.
+     
+   - Most our of Revenue, 37%, is made at month-end, while the beginning of the month as well as mid month contribute 31% of Revenue
 
 
-📆 **Busy days findings**
+📆 **Traffic findings**
 
    - Our busiest days are Mondays and Fridays, generating 30% of the week’s revenue
    - Our least busy days are weekends (Sat and Sun), generating just under 28% of the week’s revenue
@@ -30,22 +32,26 @@ These findings will assist management and the C.E.O in making informed, data-dri
 
    - This impressive performance may be linked to its prime location. Additionally, it could be influenced by aspects that other shops might adopt, such as  quality of service and  shop cleanliness.
 
-💰✅**Busy days Recommendations**   
-
-   - It might be worthwhile to reassess **Astoria's** trading hours on weekends.
-   - Additionally, **Astoria** should consider implementing special promotions on Tuesdays to boost activity
-   - It might be worthwhile for **Lower Manhattan** to reevaluate its Sunday trading hours or offerings, tailoring them to better meet the needs of the visitors in the area on that day.
-   - Perhaps we may re-asses the trading hours on weekends and/or introduce specials
-   - We may need to do an analysis per season, as sales seemed to drop in Jan, which is winter season around Manhattan and Astoria (shorter daylight), and picked up in Feb, which is summer.
-   - We may need to introduce delivery options in order to capture a market that is not within the vicinity of the shops.
-
 
  📈**Growth findings**
    - All three coffee shops experienced a decline in sales from January to February.  
    - However, each shop observed a strong increase in units sold over the following five months.  
    - The coffee shops have experienced growth of over **100% in 6 months**, which is remarkable,
    - The typical growth target for coffee shops comparable to ours is approximately 5% per month.
-   - Our coffee shop has achieved **month-to-month growth rates reaching as high as 33%**, significantly surpassing market expectations.  
+   - Our coffee shop has achieved **month-to-month growth rates reaching as high as 33%**, significantly surpassing market expectations.
+
+💰✅**Recommendations**  
+
+   - It might be worthwhile to reassess **Astoria's** trading hours on weekends.
+   - Additionally, **Astoria** should consider implementing special promotions on Tuesdays to boost activity, such as buy-1-get-1 free promotions 
+   - It might be worthwhile for **Lower Manhattan** to reevaluate its Sunday trading hours or offerings, tailoring them to better meet the needs of the visitors in the area on that day.
+   - Perhaps we may re-asses the trading hours on weekends across all coffee shops, as they seem to be located in business districts, which are quiet over weekends.
+   - We may need to do an analysis per season, as sales seemed to drop in Jan, which is winter season around Manhattan and Astoria (shorter daylight), and picked up in Feb, which is summer.
+   - We may need to introduce delivery options in order to capture a market that is not within the vicinity of the shops.
+   - It might be beneficial for the coffee shop to consider running promotions on products which are the lowest sellers, such as bundling them with the products which are the highest sellers.
+   - Additionally, the coffee shops could explore the option of commercializing these low selling products, similar to Nando's approach with their sauce, as they seem to be Input products rather than final products.
+
+
 
 
 
