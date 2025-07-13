@@ -46,7 +46,7 @@ These findings will assist management and the C.E.O in making informed, data-dri
    - Additionally, **Astoria** should consider implementing special promotions on Tuesdays to boost activity, such as buy-1-get-1 free promotions 
    - It might be worthwhile for **Lower Manhattan** to reevaluate its Sunday trading hours or offerings, tailoring them to better meet the needs of the visitors in the area on that day.
    - Perhaps we may re-asses the trading hours on weekends across all coffee shops, as they seem to be located in business districts, which are quiet over weekends.
-   - We may need to do an analysis per season, as sales seemed to drop in Jan, which is winter season around Manhattan and Astoria (shorter daylight), and picked up in Feb, which is summer.
+   - We may need to do an analysis **per season**, as sales seemed to drop in Jan, which is winter season around Manhattan and Astoria (shorter daylight), and picked up in Feb, which is summer (longer daylight).
    - We may need to introduce delivery options in order to capture a market that is not within the vicinity of the shops.
    - It might be beneficial for the coffee shop to consider running promotions on products which are the lowest sellers, such as bundling them with the products which are the highest sellers.
    - Additionally, the coffee shops could explore the option of commercializing these low selling products, similar to Nando's approach with their sauce, as they seem to be Input products rather than final products.
