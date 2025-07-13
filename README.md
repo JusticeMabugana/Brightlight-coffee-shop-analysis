@@ -65,7 +65,7 @@ These findings will assist management and the C.E.O in making informed, data-dri
 
 
  - **Output**
-1.  [Presentation](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Output/Coffee%20Shop%20Analysis%20presentation.pdf) File containing the final presentation for the C.E.O
+1.  [Presentation](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Output/Presentation%20to%20the%20CEO.pdf) File containing the final presentation for the C.E.O
 
 
  - **Workings**
