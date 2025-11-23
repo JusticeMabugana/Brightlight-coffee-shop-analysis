@@ -58,23 +58,28 @@ These findings will assist management and the C.E.O in making informed, data-dri
 ## **Project Files**
 
 
-- **Input** 
-1.  [Coffee shop Analysis](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Input/Bright%20Coffee%20Shop%20Sales%20Analysis%20(BRIGHTLIGHT).pdf) File containing information partaining to the 3 Coffee shop locations, as well as the expectation from the C.E.O.
+- **Project Description & Raw Data** 
+1.  [Project description](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/1.Project%20Description%20%26%20Raw%20Data/Project%20description.pdf) File containing information partaining to the 3 Coffee shop locations, as well as the expectation from the C.E.O.
      
-2.  [Sales data](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Input/Bright%20Coffee%20Shop%20Analysis.xlsx%20-%20Transactions%20(1).csv) File containing sales data partaining to the 3 coffee shop locations, captured in Excel.
+2.  [Raw data](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/1.Project%20Description%20%26%20Raw%20Data/Raw%20data.csv) File containing sales data partaining to the 3 coffee shop locations, captured in Excel.
 
 
- - **Output**
-1.  [Presentation](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Output/Coffee%20shop%20presentation.pdf) File containing the final presentation for the C.E.O
+ - **Project Presentation**
+   
+ 1. [Presentation](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/4.Project%20Presentation/Presentation%20to%20the%20CEO.pdf) File containing the final presentation for the C.E.O
 
 
- - **Workings**
+ - **Project Planning**
+   
+ 1. [Miro Plan](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/2.Project%20Planning/Miro%20Project%20Plan.pdf) Miro planning process for the final output
+  
+ - **Data Processing**
 1. [Excel Workings](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/BRIGHTLIGHT%20presentation%202%201%201%20(1).xlsx) Excel file containing graphs, tables, charts, functions and formulae that went into producing the final output
-2. [Miro Plan](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/Coffee%20shop%20analysis%20final%20plan.pdf) Miro planning process for the final output
-3. [Excel in PDF](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/Excel%20Coffee%20Shop%20MoM%20growth.pdf) Excel workings saved in PDF
-4. [Excel in PDF](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/Excel%20Coffee%20shop%20Sales.pdf) Excel workings saved in PDF
-5. [Excel in PDF](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/Excel%20Coffee%20shop%20total%20revenue%20per%20location.pdf) Excel workings saved in PDF
-6. [SQL Magic](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/Workings/SQL%20Code%20Coffee_Shop_Analysis.sql) SQL code used for creating file for final Excel data used
+
+3. [Excel MoM growth](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/3.Data%20Processing/Excel%20Coffee%20Shop%20MoM%20growth.pdf) Excel workings saved in PDF
+4. [Excel Sales](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/3.Data%20Processing/Excel%20Coffee%20shop%20Sales.pdf) Excel workings saved in PDF
+5. [Excel Revenue/location](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/3.Data%20Processing/Excel%20Coffee%20shop%20total%20revenue%20per%20location.pdf) Excel workings saved in PDF
+6. [SQL Magic](https://github.com/JusticeMabugana/Brightlight-coffee-shop-analysis/blob/main/3.Data%20Processing/Coffee%20Shop%20SQL.sql) SQL code used for creating file for final Excel data used
 
 
 ## **Tools used**
